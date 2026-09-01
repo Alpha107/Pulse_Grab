@@ -1,0 +1,11 @@
+{
+  "name": "pulsegrab",
+  "private": true,
+  "version": "1.0.0",
+  "description": "One command to run PulseGrab's backend + frontend together.",
+  "scripts": {
+    "start": "node scripts/run.js",
+    "run": "node scripts/run.js",
+    "dev": "node scripts/run.js"
+  }
+}
